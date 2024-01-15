@@ -18,7 +18,12 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e29be32-78e2-4459-86d8-2da8852b23fb" name="Changes" comment="" />
+    <list default="true" id="8e29be32-78e2-4459-86d8-2da8852b23fb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lessons/shift-register/max7219/max7219.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/shift-register/74hc595_7_segs.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/shift-register/74hc595/74hc595_7_segs.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/shift-register/wokwi_diagram.json" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/shift-register/74hc595/wokwi_diagram.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +31,9 @@
   </component>
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -51,6 +59,7 @@
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/thtr/Projects/esp32/seven-segs-74hc595",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -61,6 +70,19 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lessons/shift-register/max7219" />
+      <recent name="$PROJECT_DIR$/lessons/shift-register/74hc595" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -70,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1704894363956</updated>
       <workItem from="1704894365916" duration="2313000" />
-      <workItem from="1704937050345" duration="3864000" />
+      <workItem from="1704937050345" duration="9179000" />
     </task>
     <servers />
   </component>
